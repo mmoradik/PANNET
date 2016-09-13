@@ -1,0 +1,4 @@
+# PANNET
+PANNET is a non-fully connected recurrent neural network which developed for time series prediction. 
+Network structure and connection weights are trained by a customized evolutionary genetic algorithm.
+The PANNET code is written in python and tested for sunspot time series as a benchmark.
